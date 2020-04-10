@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <windows.h>
 #include <conio.h>
+//请在VS2019中编译 其他的没测试过
 //目前仅适用于1920*1080设置下的CF,如果要改变，需要修改各种数据
 //这是红点检测的个数，用于初始化数组大小 和批量替换后边的各种常量，见后边
 #define POINT_NUM 5
